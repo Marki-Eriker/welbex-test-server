@@ -1,4 +1,4 @@
-# Серверная часть под [клиент](https://github.com/Marki-Eriker/welbex-test-front) для тестового задание компании WELBEX
+# Серверная часть под [клиент](https://github.com/Marki-Eriker/welbex-test-front) для тестового задания компании WELBEX
 
 ### Запуск:
 
